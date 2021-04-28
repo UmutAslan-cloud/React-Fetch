@@ -1,0 +1,13 @@
+.wrapper {
+    width: 250px;
+    height: 800px;
+    margin-left: 700px;
+
+}
+button {
+    margin-left: 80px;
+    margin-top: 20px;
+    background-color: rgb(47, 201, 47);
+    border-radius: 10px;
+    
+}

@@ -1,4 +1,5 @@
 import React, { useReducer, useState } from 'react';
+import './Form.css';
 
 
 const formReducer = (state, event) => {

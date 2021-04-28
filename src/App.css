@@ -2,9 +2,21 @@
   text-align: center;
   display: flex;
   justify-content: space-around;
-  margin-top: 100px;
+  margin-top: 400px;
 }
-
+nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+nav * {
+  text-decoration: none;
+  width: 10px;
+  height: 15px;
+  margin-top: 15px;
+}
+nav:hover{
+  opacity: 0.5;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
